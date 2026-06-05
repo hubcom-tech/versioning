@@ -5,15 +5,13 @@
     "latestBuild": 2,
     "minimum": "1.1.0",
     "minimumBuild": 2,
-    "storeUrl": "https://play.google.com/store/apps/details?id=com.hubcom.solopos",
-    "releaseNotes": "- Auto-update notifier\n- VietQR bank account scan\n- iOS Dynamic Island fixes"
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.hubcom.solopos"
   },
   "ios": {
     "latest": "1.1.0",
     "latestBuild": 2,
     "minimum": "1.1.0",
     "minimumBuild": 2,
-    "storeUrl": "https://apps.apple.com/app/id0000000000",
-    "releaseNotes": "- Auto-update notifier\n- VietQR bank account scan\n- iOS Dynamic Island fixes"
+    "storeUrl": "https://apps.apple.com/app/id0000000000"
   }
 }

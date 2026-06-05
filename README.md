@@ -28,7 +28,6 @@ versioning/
 | `latestBuild` | int | Build-number tiebreaker (Flutter `+N` in `pubspec.yaml`). |
 | `minimum` / `minimumBuild` | string / int | `installed < minimum` → hard blocking screen, no skip. |
 | `storeUrl` | string | Play Store / App Store deep-link. Tap "Update" → `url_launcher` opens this. |
-| `releaseNotes` | string | Markdown. Shown in the banner. Use `\n` for line breaks. |
 
 ## Severity tiers
 
