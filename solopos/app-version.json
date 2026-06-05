@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "android": {
-    "latest": "1.0.0",
-    "latestBuild": 1,
-    "minimum": "1.0.0",
-    "minimumBuild": 1,
+    "latest": "1.1.0",
+    "latestBuild": 2,
+    "minimum": "1.1.0",
+    "minimumBuild": 2,
     "storeUrl": "https://play.google.com/store/apps/details?id=com.hubcom.solopos"
   },
   "ios": {
-    "latest": "1.0.0",
-    "latestBuild": 1,
-    "minimum": "1.0.0",
-    "minimumBuild": 1,
+    "latest": "1.1.0",
+    "latestBuild": 2,
+    "minimum": "1.1.0",
+    "minimumBuild": 2,
     "storeUrl": "https://apps.apple.com/app/id0000000000"
   }
 }
